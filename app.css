@@ -535,7 +535,7 @@ input {
 }
 
 .input-group:before {
-    content: url("../../assets/media/icon/message.png");
+    content: url("https://neokloud.com/assets/media/icon/message.png");
     position: absolute;
     left: 30px;
     top: 24px;
@@ -9463,7 +9463,7 @@ body.op-modal-open {
 }
 
 .active-dark-mode .input-group::before {
-    content: url("../../assets/media/icon/message-light.png");
+    content: url("https://neokloud.com/assets/media/icon/message-light.png");
 }
 
 @media only screen and (max-width: 479px) {
