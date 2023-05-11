@@ -292,7 +292,10 @@ html[data-w-dynpage] [data-w-cloak] {
   color: rgba(0, 0, 0, 0) !important;
 }
 
-.w-webflow-badge, .w-webflow-badge * {
+.
+
+
+, .w-webflow-badge * {
   z-index: auto;
   visibility: hidden;
   box-sizing: border-box;
@@ -349,7 +352,7 @@ html[data-w-dynpage] [data-w-cloak] {
   white-space: nowrap;
   cursor: pointer;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, .1), 0 1px 3px rgba(0, 0, 0, .1);
-  visibility: visible !important;
+  visibility: hidden !important;
   z-index: 2147483647 !important;
   color: #aaadb0 !important;
   opacity: 1 !important;
@@ -373,7 +376,7 @@ html[data-w-dynpage] [data-w-cloak] {
 }
 
 .w-webflow-badge > img {
-  visibility: visible !important;
+  visibility: hidden !important;
   opacity: 1 !important;
   vertical-align: middle !important;
   display: inline-block !important;
